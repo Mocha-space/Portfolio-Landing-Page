@@ -383,6 +383,15 @@ form input, textarea{
     color: rgb(49, 81, 174);
   }
 
+  #sideMenu li a{
+    font-size: 19px;
+  }
+  #sideMenu i{
+    font-size: 30px;
+    margin-left: 39px;
+    color: #ff004f;
+  }
+
   .Logo{
     width: 80px;
     border-radius: 900px;
@@ -399,9 +408,10 @@ form input, textarea{
     right: -210px;
     top: 0;
     width: 210px;
-    height: 100vh;
+    height: 50vh;
     padding: 45px;
     z-index: 2;
+    border-radius: 50%;
     transition: right 0.5s ease;
   }
 
