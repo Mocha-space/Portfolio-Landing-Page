@@ -411,7 +411,7 @@ form input, textarea{
     height: 50vh;
     padding: 45px;
     z-index: 2;
-    border-radius: 50%;
+    border-radius: 26px;
     transition: right 0.5s ease;
   }
 
