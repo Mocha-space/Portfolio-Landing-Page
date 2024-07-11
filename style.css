@@ -355,7 +355,7 @@ form input, textarea{
 
 
 
-/* Making the website responsiv */ 
+/* Making the website responsive */ 
  
  .fa-solid {
   display: none;
@@ -408,10 +408,9 @@ form input, textarea{
     right: -210px;
     top: 0;
     width: 210px;
-    height: 50vh;
+    height: 100vh;
     padding: 45px;
     z-index: 2;
-    border-radius: 26px;
     transition: right 0.5s ease;
   }
 
